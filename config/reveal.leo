@@ -19,11 +19,12 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170636.1"><vh>slide3</vh>
+<v t="leo.20200818170636.1"><vh>slide3</vh></v>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
+<v t="leo.20200818194812.1"><vh>slide 13</vh>
+<v t="leo.20210418194342.1"><vh>slide 13</vh></v>
+<v t="leo.20210418194344.1"><vh>slide 13</vh></v>
 </v>
-<v t="leo.20200818194812.1"><vh>slide 13</vh></v>
-<v t="leo.20200818194840.1"><vh>slide 14</vh></v>
 </v>
 </v>
 </v>
@@ -210,82 +211,19 @@ vertical: body pane on the botton</t>
 &lt;/p&gt;
         &lt;/section&gt;
 </t>
-<t tx="leo.20200818194812.1">     @others
-     &lt;/p&gt;
+<t tx="leo.20200818194812.1">    &lt;section&gt;
+     @others
      &lt;/section&gt;
 </t>
-<t tx="leo.20200818194840.1">
-     &lt;section data-auto-animate&gt;
-         &lt;p&gt;--------------------&lt;/p&gt;
-     &lt;p&gt;&lt;span&gt;&lt;img caption="false" height="525" src="./../images/轉盤.jpg" width="450"/&gt;
-
-     &lt;/p&gt;
+<t tx="leo.20210418194342.1">    &lt;section&gt;
+    零件圖：
+    齒輪1：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_7.jpg "alt=""width="545" height="276"&gt;&lt;/p&gt; 
      &lt;/section&gt;
-     &lt;section data-auto-animate&gt;
-         &lt;p&gt;-------------------&lt;/p&gt;
-     &lt;p&gt;&lt;span&gt;&lt;img caption="false" height="251" src="./../images/轉盤動.gif" width="450"/&gt;&lt;/span&gt;&lt;/p&gt;
-     &lt;/p&gt;
+</t>
+<t tx="leo.20210418194344.1">    &lt;section&gt;
+     @others
      &lt;/section&gt;
-     &lt;section data-auto-animate&gt;
-         &lt;p&gt;--------------------&lt;/p&gt;
-     &lt;p&gt;&lt;span&gt;&lt;img caption="false" height="625" src="./../images/發球零件.jpg" width="450"/&gt;&lt;/span&gt;&lt;/p&gt;
-     &lt;/p&gt;
-     &lt;/section&gt;
-     &lt;section data-auto-animate&gt;
-         &lt;p&gt;------------------&lt;/p&gt;
-     &lt;p&gt;&lt;span&gt;&lt;img caption="false" height="531" src="./../images/發球器動.gif" width="450"/&gt;&lt;/span&gt;&lt;/p&gt;
-     &lt;/p&gt;
-     &lt;/section&gt;
-     &lt;section data-auto-animate&gt;
-         &lt;p&gt;------------------&lt;/p&gt;
-     &lt;p&gt;&lt;span&gt;&lt;img caption="false" height="312" src="./../images/第一版.jpg" width="500"/&gt;&lt;/span&gt;&lt;/p&gt;
-     &lt;/p&gt;
-     &lt;/section&gt;
-     &lt;section data-auto-animate&gt;
-         &lt;p&gt;-----------------&lt;/p&gt;
-     &lt;p&gt;&lt;span&gt;&lt;iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/fRxebGEGAc0" width="560"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
-     &lt;/p&gt;
-     &lt;/section&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-     &lt;section&gt;
-         &lt;h2&gt;W7&lt;/h2&gt;
-         &lt;p&gt;
-     &lt;p&gt;預定進度:----------------&lt;/p&gt;
-         &lt;/p&gt;
-     &lt;/section&gt;
-     &lt;section data-auto-animate&gt;
-     &lt;h3&gt;在coppeliasim進行模擬&lt;/h3&gt;
-         &lt;p&gt;-----------------------------------------&lt;/p&gt;
-     &lt;p&gt;&lt;span&gt;&lt;iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/AhB5IT6MZTE" width="560"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
-     &lt;/p&gt;
-     &lt;/section&gt;
-     &lt;section data-auto-animate&gt;
-         &lt;p&gt;進行Heroku協同&lt;/p&gt;
-     &lt;a href="https://stage2-ag8.herokuapp.com/content/index.html"&gt;Heroku&lt;/a&gt;
-     &lt;/p&gt;
-     &lt;/section&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-     &lt;section&gt;
-         &lt;h2&gt;W8&lt;/h2&gt;
-         &lt;p&gt;
-     &lt;p&gt;預定進度:----------------&lt;/p&gt;
-         &lt;/p&gt;
-     &lt;/section&gt;
-     &lt;section data-auto-animate&gt;
-     &lt;p&gt;coppeliasim---------------&lt;/p&gt;
-     &lt;p&gt;&lt;img alt="" height="597" src="./../images/轉盤變大.jpg" width="500"/&gt;&lt;/p&gt;
-     &lt;/section&gt;
-     &lt;section data-auto-animate&gt;
-         &lt;p&gt;----------------------------&lt;/p&gt;
-     &lt;p&gt;&lt;code class="py plain"&gt;&lt;img alt="" height="600" src="./../images/底座打洞.jpg" width="500"/&gt;&lt;/code&gt;&lt;/p&gt;
-     &lt;/p&gt;
-     &lt;/section&gt;
-&lt;/section&gt;
-
 </t>
 </tnodes>
 </leo_file>
