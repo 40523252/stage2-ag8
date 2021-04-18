@@ -19,7 +19,6 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
@@ -221,22 +220,20 @@ vertical: body pane on the botton</t>
     &lt;p&gt;專題題目:Pegasus Automata&lt;/p&gt;
         &lt;a href="https://github.com/40823107/stage2-ag8"&gt;repo&lt;/a&gt;
     &lt;a href="https://40823107.github.io/stage2-ag8/content/index.html"&gt;site&lt;/a&gt;&lt;/p&gt;
-        
-&lt;p&gt;40823103 呂霈瑜&lt;/p&gt;
-&lt;p&gt;40823107 吳嘉欣&lt;/p&gt;
-&lt;p&gt;40823154 張宸嘉&lt;/p&gt;
-&lt;p&gt;40523252 呂霈瑜&lt;/p&gt;
-</t>
-<t tx="leo.20200818170535.1">                    &lt;a href="https://40523252.github.io/cd2021/content/index.html"&gt;40523252王彥筑&lt;/a&gt;&lt;/p&gt;
+                        &lt;a href="https://40523252.github.io/cd2021/content/index.html"&gt;40523252王彥筑&lt;/a&gt;&lt;/p&gt;
                      &lt;a href="https://40823103.github.io/cd2021/content/index.html"&gt;40823103呂霈瑜&lt;/a&gt;&lt;/p&gt;
                      &lt;a href="https://40823107.github.io/cd2021/content/index.html"&gt;40823107吳嘉欣&lt;/a&gt;&lt;/p&gt;
                      &lt;a href="https://40823154.github.io/cd2021/content/index.html"&gt;40823154張宸嘉&lt;/a&gt;&lt;/p&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
+        
 </t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
     &lt;h2&gt;專題方向&lt;/h2&gt;
+     &lt;p&gt;依照底下的圖片模擬出成品&lt;/p&gt;
+    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8QzeYpuuhjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/section&gt;
     @others
 </t>
 <t tx="leo.20200818170725.1"></t>
