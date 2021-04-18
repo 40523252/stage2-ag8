@@ -151,11 +151,13 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20200818165234.1">@language xml
 @tabwidth -4
-@others</t>
+@others
+</t>
 <t tx="leo.20200818165301.1">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
-&lt;/html&gt;</t>
+&lt;/html&gt;
+</t>
 <t tx="leo.20200818165413.1">&lt;body&gt;
 @others
     &lt;script src="dist/reveal.js"&gt;&lt;/script&gt;
@@ -163,11 +165,11 @@ vertical: body pane on the botton</t>
     &lt;script src="plugin/notes/notes.js"&gt;&lt;/script&gt;
     &lt;script src="plugin/search/search.js"&gt;&lt;/script&gt;
     &lt;script src="plugin/markdown/markdown.js"&gt;&lt;/script&gt;
-    &lt;script src="https://40823107.github.io/stage1-ag8/content/index.html"&gt;&lt;/script&gt;
+    &lt;script src="plugin/highlight/highlight.js"&gt;&lt;/script&gt;
     &lt;script&gt;
 
         // Also available as an ES module, see:
-        // https://40823107.github.io/stage1-ag8/content/index.html/
+        // https://revealjs.com/initialization/
         Reveal.initialize({
             controls: true,
             progress: true,
@@ -179,11 +181,12 @@ vertical: body pane on the botton</t>
         });
 
     &lt;/script&gt;
-&lt;/body&gt;</t>
+&lt;/body&gt;
+</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;reveal.js – The HTML Presentation Framework &lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -199,237 +202,159 @@ vertical: body pane on the botton</t>
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
-&lt;/head&gt;</t>
+&lt;/head&gt;
+</t>
 <t tx="leo.20200818170041.1">&lt;div class="reveal"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170222.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+
+&lt;/a&gt;
+    &lt;h3&gt;2021-協同產品設計實習-stage2-ag8&lt;/h3&gt;
+    
+    &lt;p&gt;專題題目:Pegasus Automata&lt;/p&gt;
+        &lt;a href="https://github.com/40823107/stage2-ag8"&gt;repo&lt;/a&gt;
+    &lt;a href="https://40823107.github.io/stage2-ag8/content/index.html"&gt;site&lt;/a&gt;&lt;/p&gt;
+        
+&lt;p&gt;40823103 呂霈瑜&lt;/p&gt;
+&lt;p&gt;40823107 吳嘉欣&lt;/p&gt;
+&lt;p&gt;40823154 張宸嘉&lt;/p&gt;
+&lt;p&gt;40523252 呂霈瑜&lt;/p&gt;
+</t>
+<t tx="leo.20200818170535.1">                    &lt;a href="https://40523252.github.io/cd2021/content/index.html"&gt;40523252王彥筑&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40823103.github.io/cd2021/content/index.html"&gt;40823103呂霈瑜&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40823107.github.io/cd2021/content/index.html"&gt;40823107吳嘉欣&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40823154.github.io/cd2021/content/index.html"&gt;40823154張宸嘉&lt;/a&gt;&lt;/p&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
+<t tx="leo.20200818170636.1">&lt;section&gt;
+    &lt;h2&gt;專題方向&lt;/h2&gt;
     @others
-&lt;/section&gt;
-
 </t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171412.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-stack"&gt;
-        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194721.1">&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
-    &lt;p&gt;
-        Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194751.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-
-        ```[]
-        &lt;section data-markdown&gt;
-          ## Markdown support
-
-          Write content using inline or external Markdown.
-          Instructions and more info available in the [readme](https://revealjs.com/markdown/).
+<t tx="leo.20200818170725.1"></t>
+<t tx="leo.20200818170909.1">&lt;p&gt;
+    ---------------
+&lt;/p&gt;
         &lt;/section&gt;
-        ```
-    &lt;/script&gt;
+
+        &lt;section&gt;
+&lt;h2&gt;每週進度&lt;/h2&gt;
+&lt;p&gt;
+        &lt;p&gt;W5 ----------&lt;/p&gt;
+</t>
+<t tx="leo.20200818170953.1">        &lt;p&gt;W6 ----------&lt;/p&gt;
+        &lt;p&gt;W7 ----------&lt;/p&gt;
+        &lt;p&gt;W8 ----------&lt;/p&gt;
+        &lt;p&gt;W9 ----------&lt;/p&gt;
+</t>
+<t tx="leo.20200818171010.1">&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;section&gt;
+</t>
+<t tx="leo.20200818171138.1"></t>
+<t tx="leo.20200818171215.1"></t>
+<t tx="leo.20200818171244.1"></t>
+<t tx="leo.20200818171312.1"></t>
+<t tx="leo.20200818171344.1"></t>
+<t tx="leo.20200818171412.1"></t>
+<t tx="leo.20200818194721.1"></t>
+<t tx="leo.20200818194751.1"></t>
+<t tx="leo.20200818194812.1">     @others
+     &lt;/p&gt;
+     &lt;/section&gt;
+</t>
+<t tx="leo.20200818194840.1">
+     &lt;section data-auto-animate&gt;
+         &lt;p&gt;--------------------&lt;/p&gt;
+     &lt;p&gt;&lt;span&gt;&lt;img caption="false" height="525" src="./../images/轉盤.jpg" width="450"/&gt;
+
+     &lt;/p&gt;
+     &lt;/section&gt;
+     &lt;section data-auto-animate&gt;
+         &lt;p&gt;-------------------&lt;/p&gt;
+     &lt;p&gt;&lt;span&gt;&lt;img caption="false" height="251" src="./../images/轉盤動.gif" width="450"/&gt;&lt;/span&gt;&lt;/p&gt;
+     &lt;/p&gt;
+     &lt;/section&gt;
+     &lt;section data-auto-animate&gt;
+         &lt;p&gt;--------------------&lt;/p&gt;
+     &lt;p&gt;&lt;span&gt;&lt;img caption="false" height="625" src="./../images/發球零件.jpg" width="450"/&gt;&lt;/span&gt;&lt;/p&gt;
+     &lt;/p&gt;
+     &lt;/section&gt;
+     &lt;section data-auto-animate&gt;
+         &lt;p&gt;------------------&lt;/p&gt;
+     &lt;p&gt;&lt;span&gt;&lt;img caption="false" height="531" src="./../images/發球器動.gif" width="450"/&gt;&lt;/span&gt;&lt;/p&gt;
+     &lt;/p&gt;
+     &lt;/section&gt;
+     &lt;section data-auto-animate&gt;
+         &lt;p&gt;------------------&lt;/p&gt;
+     &lt;p&gt;&lt;span&gt;&lt;img caption="false" height="312" src="./../images/第一版.jpg" width="500"/&gt;&lt;/span&gt;&lt;/p&gt;
+     &lt;/p&gt;
+     &lt;/section&gt;
+     &lt;section data-auto-animate&gt;
+         &lt;p&gt;-----------------&lt;/p&gt;
+     &lt;p&gt;&lt;span&gt;&lt;iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/fRxebGEGAc0" width="560"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
+     &lt;/p&gt;
+     &lt;/section&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+     &lt;section&gt;
+         &lt;h2&gt;W7&lt;/h2&gt;
+         &lt;p&gt;
+     &lt;p&gt;預定進度:----------------&lt;/p&gt;
+         &lt;/p&gt;
+     &lt;/section&gt;
+     &lt;section data-auto-animate&gt;
+     &lt;h3&gt;在coppeliasim進行模擬&lt;/h3&gt;
+         &lt;p&gt;-----------------------------------------&lt;/p&gt;
+     &lt;p&gt;&lt;span&gt;&lt;iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/AhB5IT6MZTE" width="560"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
+     &lt;/p&gt;
+     &lt;/section&gt;
+     &lt;section data-auto-animate&gt;
+         &lt;p&gt;進行Heroku協同&lt;/p&gt;
+     &lt;a href="https://stage2-ag8.herokuapp.com/content/index.html"&gt;Heroku&lt;/a&gt;
+     &lt;/p&gt;
+     &lt;/section&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+     &lt;section&gt;
+         &lt;h2&gt;W8&lt;/h2&gt;
+         &lt;p&gt;
+     &lt;p&gt;預定進度:----------------&lt;/p&gt;
+         &lt;/p&gt;
+     &lt;/section&gt;
+     &lt;section data-auto-animate&gt;
+     &lt;p&gt;coppeliasim---------------&lt;/p&gt;
+     &lt;p&gt;&lt;img alt="" height="597" src="./../images/轉盤變大.jpg" width="500"/&gt;&lt;/p&gt;
+     &lt;/section&gt;
+     &lt;section data-auto-animate&gt;
+         &lt;p&gt;----------------------------&lt;/p&gt;
+     &lt;p&gt;&lt;code class="py plain"&gt;&lt;img alt="" height="600" src="./../images/底座打洞.jpg" width="500"/&gt;&lt;/code&gt;&lt;/p&gt;
+     &lt;/p&gt;
+     &lt;/section&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818194812.1">&lt;section&gt;
-     @others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194840.1">&lt;section id="transitions"&gt;
-    &lt;h2&gt;Transition Styles&lt;/h2&gt;
-    &lt;p&gt;
-        You can select from different transitions, like: &lt;br&gt;
-        &lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-        &lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-        &lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-        &lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-        &lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-        &lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194908.1">&lt;section id="fragments"&gt;
-    &lt;h2&gt;Fragments&lt;/h2&gt;
-    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-    &lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        This slide has fragments which are also stepped through in the notes window.
-    &lt;/aside&gt;
-&lt;/section&gt;
- </t>
+<t tx="leo.20200818194908.1"></t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
-    &lt;h2&gt;Fragment Styles&lt;/h2&gt;
-    &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-    &lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-    &lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-    &lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
+    &lt;h2&gt;W6&lt;/h2&gt;
     &lt;p&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-right"&gt;fade-right, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-up"&gt;up, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-down"&gt;down, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-left"&gt;left&lt;/span&gt;
+&lt;p&gt;---------------&lt;/p&gt;
     &lt;/p&gt;
-    &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
-    &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
-    &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+&lt;section data-auto-animate&gt;
+    &lt;p&gt;-----------&lt;/p&gt;
+    &lt;p&gt;&lt;img caption="false" height="353" src="./../images/底座.jpg" width="450"/&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+</t>
 <t tx="leo.20200818195039.1">&lt;section id="themes"&gt;
     &lt;h2&gt;Themes&lt;/h2&gt;
     &lt;p&gt;
@@ -448,6 +373,19 @@ vertical: body pane on the botton</t>
         &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;
+&lt;section id="transitions"&gt;
+    &lt;h2&gt;Transition Styles&lt;/h2&gt;
+    &lt;p&gt;
+        You can select from different transitions, like: &lt;br&gt;
+        &lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
+        &lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
+        &lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
+        &lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
+        &lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
+        &lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+
 </t>
 <t tx="leo.20200818195105.1">&lt;section&gt;
     @others
@@ -492,7 +430,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818195339.1">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
     &lt;h2&gt;... and GIFs!&lt;/h2&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818195403.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h2&gt;Background Transitions&lt;/h2&gt;
     &lt;p&gt;
@@ -647,6 +586,7 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
