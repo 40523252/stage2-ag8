@@ -24,7 +24,29 @@
 <v t="leo.20200818194812.1"><vh>slide 13</vh>
 <v t="leo.20210418194342.1"><vh>slide 13</vh></v>
 <v t="leo.20210418194344.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195043.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195347.1"><vh>3</vh></v>
+<v t="leo.20210418195045.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195046.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195047.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195049.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195345.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195741.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195535.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195602.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195604.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195901.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195706.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195825.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195826.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195828.1"><vh>slide 13</vh></v>
+<v t="leo.20210418195829.1"><vh>slide 13</vh></v>
+<v t="leo.20210418200023.1"><vh>slide 13</vh></v>
+<v t="leo.20210418200024.1"><vh>slide 13</vh></v>
+<v t="leo.20210418200026.1"><vh>slide 13</vh></v>
+<v t="leo.20210418200027.1"><vh>slide 13</vh></v>
 </v>
+<v t="leo.20210418200314.1"><vh>slide 3-1</vh></v>
 </v>
 </v>
 </v>
@@ -218,12 +240,125 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210418194342.1">    &lt;section&gt;
     零件圖：
     齒輪1：
-    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_7.jpg "alt=""width="545" height="276"&gt;&lt;/p&gt; 
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_7.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
      &lt;/section&gt;
 </t>
 <t tx="leo.20210418194344.1">    &lt;section&gt;
-     @others
-     &lt;/section&gt;
+    零件圖：
+    齒輪2：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_2.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195043.1">    &lt;section&gt;
+    零件圖：
+    齒輪3：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_11.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195045.1">    &lt;section&gt;
+    零件圖：
+    連接桿1：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_9.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195046.1">    &lt;section&gt;
+    零件圖：
+    連接桿2：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_6.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195047.1">    &lt;section&gt;
+    零件圖：
+    連接桿3：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_7.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195049.1">    &lt;section&gt;
+    零件圖：
+    連接桿4：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_5.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195345.1">    &lt;section&gt;
+    零件圖：
+    連接桿5：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_4.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195347.1">    &lt;section&gt;
+    零件圖：
+    齒輪4：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_18.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195535.1">    &lt;section&gt;
+    零件圖：
+    螺絲1：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_17.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195602.1">    &lt;section&gt;
+    零件圖：
+    螺絲2：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_15.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195604.1">    &lt;section&gt;
+    零件圖：
+    螺絲3：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_14.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195706.1">    &lt;section&gt;
+    零件圖：
+    螺帽：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_13.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195741.1">    &lt;section&gt;
+    零件圖：
+    連接桿6：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_10.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195825.1">    &lt;section&gt;
+    零件圖：
+    底座：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_16.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195826.1">    &lt;section&gt;
+    零件圖：
+    翅膀1：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_20.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195828.1">    &lt;section&gt;
+    零件圖：
+    翅膀2：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_26.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195829.1">    &lt;section&gt;
+    零件圖：
+    馬本體：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_25.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418195901.1">    &lt;section&gt;
+    零件圖：
+    螺絲4：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_19.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418200023.1">    &lt;section&gt;
+    零件圖：
+    旋轉輪：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_3.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418200024.1">    &lt;section&gt;
+    零件圖：
+    齒輪做動桿子1：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_24.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418200026.1">    &lt;section&gt;
+    零件圖：
+    齒輪做動桿子2：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_23.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418200027.1">    &lt;section&gt;
+    零件圖：
+    齒輪做動桿子3：
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_22.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+     &lt;/section&gt;</t>
+<t tx="leo.20210418200314.1">        &lt;section&gt;
+&lt;h2&gt;完成圖&lt;/h2&gt;
+
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_0.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
+
+        &lt;/section&gt;
 </t>
 </tnodes>
 </leo_file>
