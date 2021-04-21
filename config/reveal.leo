@@ -47,6 +47,18 @@
 <v t="leo.20210418200027.1"><vh>slide 13</vh></v>
 </v>
 <v t="leo.20210418200314.1"><vh>slide 3-1</vh></v>
+<v t="leo.20210421222733.1"><vh>slide 13</vh>
+<v t="leo.20210421222733.2"><vh>1</vh></v>
+<v t="leo.20210421224150.1"><vh>1</vh></v>
+<v t="leo.20210421224149.1"><vh>1</vh></v>
+<v t="leo.20210421224152.1"><vh>1</vh></v>
+</v>
+<v t="leo.20210421224409.1"><vh>slide 13</vh>
+<v t="leo.20210421224409.2"><vh>1</vh></v>
+</v>
+<v t="leo.20210421224440.1"><vh>slide 13</vh>
+<v t="leo.20210421224440.2"><vh>1</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -359,6 +371,64 @@ vertical: body pane on the botton</t>
     &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40523252/stage2-ag8/main/images/Stage2-8_210415_0.jpg "alt=""width="545" height="400"&gt;&lt;/p&gt; 
 
         &lt;/section&gt;
+</t>
+<t tx="leo.20210421222733.1">    &lt;section&gt;
+     @others
+     &lt;/section&gt;
+</t>
+<t tx="leo.20210421222733.2">    &lt;section&gt;
+&lt;h2&gt;模擬實作&lt;/h2&gt;
+&lt;p&gt;第一次組裝時不熟悉 雖然看起來組裝好沒問題了 &lt;/p&gt;
+
+&lt;p&gt;但是運轉時還是不成功 而且運轉起來也不順 &lt;/p&gt;
+
+&lt;p&gt;定義沒有處理好&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/J2XMdp67vhA" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+     &lt;/section&gt;
+</t>
+<t tx="leo.20210421224149.1">    &lt;section&gt;
+&lt;p&gt;第三次模擬也是 後來發現齒輪們有對齊到&lt;/p&gt;
+&lt;p&gt;所以重新繼續定義這些零件&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/pz5mESoG0lE" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+
+     &lt;/section&gt;
+</t>
+<t tx="leo.20210421224150.1">    &lt;section&gt;
+&lt;p&gt;第二次模擬 零件不能運轉 應該是轉速不夠&lt;/p&gt;
+&lt;p&gt;也有可能是扭距不夠&lt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/zpGdLqk_q4I" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+
+
+     &lt;/section&gt;
+</t>
+<t tx="leo.20210421224152.1">    &lt;section&gt;
+
+&lt;p&gt;第四次模擬有比之前好很多 有讓齒輪互相對齊 所以一開始零件可以順利運轉 但是最後還是有問題  沒辦法順利轉動&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/j_NWZqjXt6w" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+     &lt;/section&gt;
+</t>
+<t tx="leo.20210421224409.1">    &lt;section&gt;
+     @others
+     &lt;/section&gt;
+</t>
+<t tx="leo.20210421224409.2">    &lt;section&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+
+     &lt;/section&gt;
+</t>
+<t tx="leo.20210421224440.1">    &lt;section&gt;
+     @others
+     &lt;/section&gt;
+</t>
+<t tx="leo.20210421224440.2">    &lt;section&gt;
+&lt;h2&gt;謝謝各位&lt;/h2&gt;
+
+     &lt;/section&gt;
 </t>
 </tnodes>
 </leo_file>
