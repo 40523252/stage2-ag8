@@ -397,7 +397,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210421224150.1">    &lt;section&gt;
 &lt;p&gt;第二次模擬 零件不能運轉 應該是轉速不夠&lt;/p&gt;
-&lt;p&gt;也有可能是扭距不夠&lt;&lt;/p&gt;
+&lt;p&gt;也有可能是扭距不夠&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/zpGdLqk_q4I" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
 
@@ -418,7 +418,21 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210421224409.2">    &lt;section&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;這次從兩個人討論變成四個人意見跟想法就跟者變多&lt;/p&gt;
 
+&lt;p&gt;事情處理起來也比較不方便&lt;/p&gt;
+
+&lt;p&gt;但是偕同如果溝通好的話可以讓整體速度加快&lt;/p&gt;
+
+&lt;p&gt;齒輪的部分在繪圖軟體上雖然可以模擬沒問題&lt;/p&gt;
+
+&lt;p&gt;但是在CoppeliaSim 上模擬就不見得會順&lt;/p&gt;
+
+&lt;p&gt;這也是我們要克服的原因&lt;/p&gt;
+
+&lt;p&gt;不過目前對CoppeliaSim 還不是很熟練 所以無法完成&lt;/p&gt;
+
+&lt;p&gt;下次會再多專研CoppeliaSim &lt;/p&gt;
      &lt;/section&gt;
 </t>
 <t tx="leo.20210421224440.1">    &lt;section&gt;
